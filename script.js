@@ -1,2 +1,2 @@
-console.log("Thanison")
-console.log("yok")
+console.log("Thanison");
+console.log("yok");
